@@ -1,0 +1,27 @@
+.footer
+{
+    position: relative;
+    top: 10vh;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dfdfe1;
+    padding: 20px 0;
+}
+
+.title {
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-size: 1.8rem;
+}
+
+.copyright {
+    display: flex;
+    font-family: 'Poppins';
+    font-weight: 600;
+    color: #313132;
+    font-size: 0.8rem;
+    justify-content: center;
+}
